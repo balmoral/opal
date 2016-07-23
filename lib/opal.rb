@@ -1,7 +1,6 @@
 require 'opal/compiler'
 require 'opal/builder'
 require 'opal/erb'
-require 'opal/sprockets'
 require 'opal/paths'
 require 'opal/version'
 require 'opal/errors'
